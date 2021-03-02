@@ -2,10 +2,10 @@
 
 Create a dictionary to store the following:
 
-Your name
-Your age
-A list of a few of your hobbies
-A dictionary of a few times you wake up during the week
+- Your name
+- Your age
+- A list of a few of your hobbies
+- A dictionary of a few times you wake up during the week
 
 
 
